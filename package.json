@@ -1,0 +1,24 @@
+{
+  "name": "idoptio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JensenBotsford/idoptio.git"
+  },
+  "keywords": [
+    "ethereum",
+    "auth",
+    "omnis",
+    "quia",
+    "eth-auth",
+    "sed"
+  ],
+  "author": "ReidTurner",
+  "license": "MIT",
+  "homepage": "https://github.com/JensenBotsford/idoptio.git",
+  "dependencies": {
+    "ethers": "^5.7.0",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
